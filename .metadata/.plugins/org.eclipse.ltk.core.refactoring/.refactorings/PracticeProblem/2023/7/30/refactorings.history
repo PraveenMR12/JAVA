@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.kn.pattern.Pattern.java&apos; to &apos;Pattern18.java&apos;&#x0D;&#x0A;- Original project: &apos;PracticeProblem&apos;&#x0D;&#x0A;- Original element: &apos;com.kn.pattern.Pattern.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.kn.pattern.Pattern18.java&apos;" description="Rename compilation unit &apos;Pattern.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.kn.pattern{Pattern.java" name="Pattern18.java" references="false" stamp="1690348559235" version="1.0"/>
+</session>

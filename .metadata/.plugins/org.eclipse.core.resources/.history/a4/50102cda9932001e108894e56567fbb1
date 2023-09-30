@@ -1,0 +1,9 @@
+package com.kn.array2d;
+
+public class AddAndMultiply2DArray {
+
+	public static void main(String[] args) {
+		
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Spy&apos; to &apos;MessageDecoderDemo&apos;&#x0D;&#x0A;- Original project: &apos;HomeWork&apos;&#x0D;&#x0A;- Original element: &apos;Spy&apos;&#x0D;&#x0A;- Renamed element: &apos;MessageDecoderDemo&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Spy&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{Spy.java[Spy" matchStrategy="1" name="MessageDecoderDemo" qualified="false" references="true" similarDeclarations="false" stamp="1692373058277" textual="false" version="1.0"/>
+</session>

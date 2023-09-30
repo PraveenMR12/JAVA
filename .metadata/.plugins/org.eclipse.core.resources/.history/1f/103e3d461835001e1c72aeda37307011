@@ -1,0 +1,15 @@
+
+public class Practice1 {
+
+	public static void main(String[] args) {
+		Abc a=new Abc();
+		System.out.println(a.a);
+		System.out.println(a.b);
+
+	}
+
+}
+class Abc{
+	char a;
+	String b;
+}

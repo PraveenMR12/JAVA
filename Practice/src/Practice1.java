@@ -1,0 +1,43 @@
+import java.util.Scanner;
+
+import java.util.Arrays;
+
+public class Practice1 {
+
+    public static int minRewards(int[] scores) {
+        int n = scores.length;
+        int[] rewards = new int[n];
+        Arrays.fill(rewards, 1);  // Initially, each student gets at least one reward
+
+        // Traverse from left to right and update rewards based on the increasing order of scores
+        for (int i = 1; i < n; i++) {
+            if (scores[i] > scores[i - 1]) {
+                rewards[i] = rewards[i - 1] + 1;
+            }
+        }
+
+        // Traverse from right to left and update rewards based on the increasing order of scores
+        for (int i = n - 2; i >= 0; i--) {
+            if (scores[i] > scores[i + 1]) {
+                rewards[i] = Math.max(rewards[i], rewards[i + 1] + 1);
+            }
+        }
+
+        // Sum up the rewards to get the total minimum rewards
+        int minTotalRewards = Arrays.stream(rewards).sum();
+        return minTotalRewards;
+    }
+
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+
+        int[] scores = new int[sc.nextInt()];
+        System.out.println("Enter the scores of the students:");
+        for (int i = 0; i < scores.length; i++) {
+            scores[i] = sc.nextInt();
+        }
+
+        int minRewards2 = minRewards(scores);
+        System.out.println("Minimum rewards for Sample Input: " + minRewards2);
+    }
+}

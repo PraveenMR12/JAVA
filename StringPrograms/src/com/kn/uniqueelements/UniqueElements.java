@@ -1,0 +1,23 @@
+package com.kn.uniqueelements;
+
+public class UniqueElements {
+	public String uniqueCharecters(String inputString) {
+		StringBuffer outputString = new StringBuffer();
+		char[] crr = inputString.toCharArray();
+		for(int i=0 ; i<crr.length; i++) {
+			int count =0;
+			for (int j=0 ; j<crr.length;j++) {
+				if(crr[i]==crr[j]) {
+					count++;
+				}
+				
+			}
+			if(count==1) {
+				outputString.append(crr[i]);
+				
+			}
+		}
+		return outputString.toString();
+	}
+
+}
