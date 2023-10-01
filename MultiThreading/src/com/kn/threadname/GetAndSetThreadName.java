@@ -8,6 +8,7 @@ public class GetAndSetThreadName {
 		Thread.currentThread().setName("Praveen");
 		System.out.println("After changing the name of the Thread : "+Thread.currentThread().getName());
 		
+		System.out.println();
 		System.out.println(10/0);
 	}
 
