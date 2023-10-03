@@ -45,6 +45,10 @@ class Officer_Verification extends Thread{
 public class Thread_Join_Demo {
 
 	public static void main(String[] args) throws InterruptedException {
+		Medical_Test m = new Medical_Test();
+		m.start();
+		m.join();
+		
 		Test_Drive t =new Test_Drive();
 		t.start();
 		t.join();
@@ -53,9 +57,7 @@ public class Thread_Join_Demo {
 		o.start();
 		o.join();
 		
-		Medical_Test m = new Medical_Test();
-		m.start();
-		m.join();
+		
 		
 	}
 

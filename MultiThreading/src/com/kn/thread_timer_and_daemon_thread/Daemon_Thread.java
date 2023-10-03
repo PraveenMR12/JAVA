@@ -21,6 +21,7 @@ public class Daemon_Thread {
 		NewThread t = new NewThread();
 		t.setDaemon(true);
 		t.start();
+		
 
 	}
 
