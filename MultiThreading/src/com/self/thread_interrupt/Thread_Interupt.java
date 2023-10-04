@@ -4,7 +4,7 @@ class NewThread1 extends Thread{
 	public void run() {
 		System.out.println(Thread.currentThread().isInterrupted());
 		System.out.println(Thread.interrupted());
-		System.out.println(Thread.currentThread().isInterrupted());
+//		System.out.println(Thread.currentThread().isInterrupted());
 
 
 			try {
