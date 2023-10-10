@@ -1,7 +1,0 @@
-package com.kn.robo_inheritance;
-
-public class ChefRobo extends Robo {
-	public void cook() {
-		System.out.println("ChefRobo cooking Biriyani");
-	}
-}
