@@ -15,5 +15,6 @@ public class Program3 {
 
             }
         }
+        sc.close();
     }
 }

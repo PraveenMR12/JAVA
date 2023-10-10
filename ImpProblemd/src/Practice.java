@@ -1,4 +1,3 @@
-import java.util.Scanner;
 
 public class Practice {
 
@@ -47,7 +46,9 @@ public class Practice {
             for(int j=0; j<i; j++){
                 System.out.print("* ");
             }
-    System.out.println("Praveen madarchtu");      }
+    System.out.println("Praveen madarchtu");   
+    }
+    
     }
 }
 

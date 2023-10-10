@@ -1,4 +1,4 @@
-package com.kn.inheritance;
+
 
 public class Super {
 	String eyeColor = "blue";

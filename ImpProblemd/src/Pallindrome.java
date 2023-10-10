@@ -15,6 +15,6 @@ public class Pallindrome {
         }else{
             System.out.println("its not a palindrome");
         }
-
+        sc.close();
     }
 }

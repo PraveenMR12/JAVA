@@ -1,4 +1,4 @@
-import java.util.Scanner;
+//import java.util.Scanner;
 
 class Base{
     int x;
@@ -31,9 +31,9 @@ class Derived extends Base{
 
 public class Program2 {
     public static void main(String[] args) {
-        Scanner sc =new Scanner(System.in);
-        int n=sc.nextInt();
-        Base b=new Base();
+//        Scanner sc =new Scanner(System.in);
+//        int n=sc.nextInt();
+//        Base b=new Base();
 
     }
 }

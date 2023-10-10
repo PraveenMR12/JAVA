@@ -16,6 +16,6 @@ public class FibbonacciRecursive {
         for(int i=0; i<n; i++) {
             System.out.println(fib(i));
         }
-
+        sc.close();
     }
 }

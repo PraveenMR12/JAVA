@@ -26,5 +26,6 @@ public class Program4 {
         }
 
         System.out.println(counts);
+        scanner.close();
     }
 }
