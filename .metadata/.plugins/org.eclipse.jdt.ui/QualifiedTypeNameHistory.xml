@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.kn.arrays.ArrayTraversing"/>
-    <fullyQualifiedTypeName name="com.kn.arrays.BackwordArrayTraversing"/>
-    <fullyQualifiedTypeName name="com.kn.arrays.SumOfArrayElementsDemo"/>
-    <fullyQualifiedTypeName name="com.kn.arrays.SumOfTheArrayElements"/>
-    <fullyQualifiedTypeName name="com.kn.arrays.CountOfArrayEvenOrOddDemo"/>
     <fullyQualifiedTypeName name="com.kn.arrays.CountOFSumAndOdd"/>
     <fullyQualifiedTypeName name="com.kn.arrays.MergingOfArray"/>
     <fullyQualifiedTypeName name="com.kn.arrays.Merging3Arrays"/>
-    <fullyQualifiedTypeName name="java.lang.invoke.MethodHandles.Lookup.ClassOption"/>
     <fullyQualifiedTypeName name="com.kn.arrays.BinarySearch"/>
     <fullyQualifiedTypeName name="com.kn.arraysort.ArraySorting"/>
     <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
@@ -60,4 +54,10 @@
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.invoke.MethodHandles.Lookup.ClassOption"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="com.kn.polymorphism.Rectangle"/>
+    <fullyQualifiedTypeName name="com.kn.polymorphism.Square"/>
+    <fullyQualifiedTypeName name="com.kn.polymorphism.Circle"/>
+    <fullyQualifiedTypeName name="com.kn.polymorphism.Geometry"/>
 </qualifiedTypeNameHistroy>

@@ -1,4 +1,4 @@
-
+package com.kn.inheritence;
 
 public class Super {
 	String eyeColor = "blue";
@@ -6,5 +6,4 @@ public class Super {
 	public void dance() {
 		System.out.println("Dancing");
 	}
-	
 }
