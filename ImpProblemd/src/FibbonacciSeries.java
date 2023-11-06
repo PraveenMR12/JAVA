@@ -16,6 +16,6 @@ public class FibbonacciSeries {
             System.out.println(next);
 
         }
-
+        sc.close();
     }
 }

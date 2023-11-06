@@ -19,5 +19,6 @@ public class prime {
                 System.out.println("prime number");
             }
         }
+        sc.close();
     }
 }
