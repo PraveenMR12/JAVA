@@ -404,7 +404,33 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_L-NymWX9Ee6aWa0dDWvoJg" elementId="org.eclipse.ui.editorss" selectedElement="_L-NymmX9Ee6aWa0dDWvoJg">
+<<<<<<< Updated upstream
       <children xsi:type="basic:PartStack" xmi:id="_L-NymmX9Ee6aWa0dDWvoJg" elementId="PartStack@233faf46"/>
+=======
+      <children xsi:type="basic:PartStack" xmi:id="_L-NymmX9Ee6aWa0dDWvoJg" elementId="PartStack@233faf46" selectedElement="_qrBQEHxVEe6NpuDJr0C6qA">
+        <tags>active</tags>
+        <children xsi:type="basic:Part" xmi:id="_Xu6ycHxVEe6NpuDJr0C6qA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Earning_Calculator_App.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Earning_Calculator_App.java&quot; partName=&quot;Earning_Calculator_App.java&quot; title=&quot;Earning_Calculator_App.java&quot; tooltip=&quot;MultiThreading/src/com/self/wait_notify/Earning_Calculator_App.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/MultiThreading/src/com/self/wait_notify/Earning_Calculator_App.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>removeOnHide</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_YPTisHxVEe6NpuDJr0C6qA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Earning_Calculator.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Earning_Calculator.java&quot; partName=&quot;Earning_Calculator.java&quot; title=&quot;Earning_Calculator.java&quot; tooltip=&quot;MultiThreading/src/com/self/wait_notify/Earning_Calculator.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/MultiThreading/src/com/self/wait_notify/Earning_Calculator.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>removeOnHide</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_qrBQEHxVEe6NpuDJr0C6qA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Threads_Demo.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Threads_Demo.java&quot; partName=&quot;Threads_Demo.java&quot; title=&quot;Threads_Demo.java&quot; tooltip=&quot;MultiThreading/src/com/kn/thread_demo/Threads_Demo.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/MultiThreading/src/com/kn/thread_demo/Threads_Demo.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;236&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>removeOnHide</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>active</tags>
+          <tags>activeOnClose</tags>
+        </children>
+      </children>
+>>>>>>> Stashed changes
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_L-Nyn2X9Ee6aWa0dDWvoJg" elementId="org.eclipse.jdt.ui.PackageExplorer" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Package Explorer" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/eview16/package.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart"/>
@@ -695,7 +721,11 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_L-OXw2X9Ee6aWa0dDWvoJg" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
+<<<<<<< Updated upstream
         <children xsi:type="menu:HandledToolItem" xmi:id="_IQtn4Gc0Ee6Wgaq9B7XzcQ" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_L-TRemX9Ee6aWa0dDWvoJg"/>
+=======
+        <children xsi:type="menu:HandledToolItem" xmi:id="_kTcioHxYEe6qwrw6EkU1sQ" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_L-TRemX9Ee6aWa0dDWvoJg"/>
+>>>>>>> Stashed changes
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_L-OX0GX9Ee6aWa0dDWvoJg" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -726,7 +756,11 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_L-OYFGX9Ee6aWa0dDWvoJg" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
+<<<<<<< Updated upstream
         <children xsi:type="menu:HandledToolItem" xmi:id="_IQu2AWc0Ee6Wgaq9B7XzcQ" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" enabled="false" type="Check" command="_L-TRNWX9Ee6aWa0dDWvoJg"/>
+=======
+        <children xsi:type="menu:HandledToolItem" xmi:id="_kTdwwHxYEe6qwrw6EkU1sQ" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_L-TRNWX9Ee6aWa0dDWvoJg"/>
+>>>>>>> Stashed changes
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_L-OYIGX9Ee6aWa0dDWvoJg" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
