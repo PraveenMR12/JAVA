@@ -6,8 +6,9 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="number"/>
+		<item key="selection" value="run()"/>
 		<list key="findhistory">
+			<item value="run()"/>
 			<item value="number"/>
 			<item value="i"/>
 			<item value="Enter your score"/>

@@ -10,11 +10,11 @@ public class CountCharInStringDemo {
 		System.out.println("Enter the Input String : ");
 		String inputString = sc.nextLine();
 		
-		//Creating a object for Reversing a String
+		//Creating a object for counting Duplicate in a String
 		CountCharInString count= new CountCharInString();
 		
-		//Calling the method for reversing the String
-		System.out.println("Reversed String = "+count.countCharDuplicates(inputString) );
+		//Calling the method for counting Duplicate in the String
+		System.out.println("Duplicate Char Count = "+count.countCharDuplicates(inputString) );
 		
 		//Release the Resource
 		sc.close();

@@ -2,7 +2,7 @@ package com.kn.arrays;
 
 public class Merging3Arrays {
 
-	// Merging of arr, brr & crr array to crr
+	// Merging of arr, brr & crr array to drr
 	public int[] arrayMerge(int[] arr, int[] brr, int[] crr) {
 		int[] drr = new int[arr.length + brr.length + crr.length];
 		// inseting arr to drr

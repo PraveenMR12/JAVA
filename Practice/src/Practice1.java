@@ -1,43 +1,34 @@
+import java.math.BigDecimal;
+import java.util.Arrays;
 import java.util.Scanner;
 
-import java.util.Arrays;
-
 public class Practice1 {
-
-    public static int minRewards(int[] scores) {
-        int n = scores.length;
-        int[] rewards = new int[n];
-        Arrays.fill(rewards, 1);  // Initially, each student gets at least one reward
-
-        // Traverse from left to right and update rewards based on the increasing order of scores
-        for (int i = 1; i < n; i++) {
-            if (scores[i] > scores[i - 1]) {
-                rewards[i] = rewards[i - 1] + 1;
-            }
-        }
-
-        // Traverse from right to left and update rewards based on the increasing order of scores
-        for (int i = n - 2; i >= 0; i--) {
-            if (scores[i] > scores[i + 1]) {
-                rewards[i] = Math.max(rewards[i], rewards[i + 1] + 1);
-            }
-        }
-
-        // Sum up the rewards to get the total minimum rewards
-        int minTotalRewards = Arrays.stream(rewards).sum();
-        return minTotalRewards;
-    }
-
     public static void main(String[] args) {
-        Scanner sc=new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
 
-        int[] scores = new int[sc.nextInt()];
-        System.out.println("Enter the scores of the students:");
-        for (int i = 0; i < scores.length; i++) {
-            scores[i] = sc.nextInt();
-        }
+        // Task 1: Take the 1st input and sort in descending order
+        System.out.println("Enter the 1st input (numbers separated by space):");
+        String[] input1 = scanner.nextLine().split("\\s");
+        Arrays.sort(input1, (a, b) -> Integer.parseInt(b) - Integer.parseInt(a));
+        System.out.println("Sorted in descending order: " + Arrays.toString(input1));
 
-        int minRewards2 = minRewards(scores);
-        System.out.println("Minimum rewards for Sample Input: " + minRewards2);
+        // Task 2: Take the 2nd input and round off to 2 digits
+        System.out.println("Enter the 2nd input (a number):");
+        double input2 = scanner.nextDouble();
+//        double roundedValue = Math.round(input2 * 100.0) / 100.0;
+        BigDecimal dec = new BigDecimal(input2).setScale(2,BigDecimal.ROUND_HALF_UP);
+        System.out.println("Rounded to 2 digits: " + dec);
+
+        // Task 3: Take the 3rd input, convert to BigDecimal, subtract, and print the value
+        System.out.println("Enter the 3rd input (a number):");
+        BigDecimal input3 = new BigDecimal(scanner.next());
+        BigDecimal subtractionResult = input3.subtract(BigDecimal.TEN);
+        System.out.println("Subtraction result: " + subtractionResult);
+
+        // Task 4: Take the 4th input and sort in ascending order
+        System.out.println("Enter the 4th input (numbers separated by space):");
+        String[] input4 = scanner.nextLine().split("\\s");
+        Arrays.sort(input4);
+        System.out.println("Sorted in ascending order: " + Arrays.toString(input4));
     }
 }

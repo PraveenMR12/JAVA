@@ -15,7 +15,7 @@ public class PalindromeOrNot {
 	static void palindrome(int num) {
 		int n=0, temp=num;
 		while(num>0){
-			n=n*10+num%1;
+			n=n*10+num%10;
 			num=num/10;
 		}
 		if(temp==n) {

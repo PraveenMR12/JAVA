@@ -14,22 +14,23 @@ public class ArmstrongNumber {
 		sc.close();
 	}
 
-	 static void armStrong(int n) {
+	static void armStrong(int n) {
 		int count=0,temp=n,temp2=n,sum=0;
 		int m;
-		 while(n>0) {
+		while(n>0) {
 			n=n/10;
 			count++;
 		}
 		while(temp>0) {
 			m=temp%10;
-			int mul=1;
-			for(int i=1;i<=count;i++) {
-				mul*=m;
-			}
+			int mul = (int)Math.pow(m, count);
+//			int mul=1;
+//			for (int i = 1; i <= count; i++) {
+//				mul*=m;
+//			}
 			sum+=mul;
 			temp=temp/10;
-			
+
 		}
 
 		if(temp2==sum) {

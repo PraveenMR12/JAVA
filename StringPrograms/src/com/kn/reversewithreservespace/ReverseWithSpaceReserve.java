@@ -2,7 +2,7 @@ package com.kn.reversewithreservespace;
 
 public class ReverseWithSpaceReserve {
 	public String reverseWithSpaceReserve(String inputString) {
-		
+
 		StringBuffer outputString = new StringBuffer();
 		char []crr= inputString.toCharArray();
 		char [] reverseCrr = new char[crr.length];
@@ -21,17 +21,17 @@ public class ReverseWithSpaceReserve {
 				j--;
 			}
 		}
-		
-		
+
+
 		for(int i=0; i<reverseCrr.length;i++) {
 			outputString.append(reverseCrr[i]);
 		}
-		
+
 		return outputString.toString();
 	}
-	
-public String reverseWithSpaceReserve2(String inputString) {
-		
+
+	public String reverseWithSpaceReserve2(String inputString) {
+
 		StringBuffer outputString = new StringBuffer();
 		char []crr= inputString.toCharArray();
 		char [] reverseCrr = new char[crr.length];
@@ -44,13 +44,13 @@ public String reverseWithSpaceReserve2(String inputString) {
 		//Adding the other elements
 		int i=0, j=crr.length-1;
 		while(i<reverseCrr.length) {
-				if(crr[j]!=' ') {
-					if(reverseCrr[i]!=' ') {
-						reverseCrr[i]=crr[j];
-						j--;
-					}
-					i++;
-				
+			if(crr[j]!=' ') {
+				if(reverseCrr[i]!=' ') {
+					reverseCrr[i]=crr[j];
+					j--;
+				}
+				i++;
+
 			}else {
 				j--;
 			}
@@ -58,7 +58,7 @@ public String reverseWithSpaceReserve2(String inputString) {
 		for(i=0; i<reverseCrr.length;i++) {
 			outputString.append(reverseCrr[i]);
 		}
-		
+
 		return outputString.toString();
 	}
 }

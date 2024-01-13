@@ -1,3 +1,4 @@
+
 package com.kn.arrays;
 
 import java.util.Scanner;
