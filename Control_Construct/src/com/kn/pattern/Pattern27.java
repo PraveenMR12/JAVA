@@ -11,8 +11,6 @@ public class Pattern27 {
 					System.out.print(" ");
 
 				}
-
-
 			
 			}
 			System.out.println();
