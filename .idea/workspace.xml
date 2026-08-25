@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="14f7c205-ef1e-454d-85c5-88e2fd76635b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/_mylyn.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/_mylyn.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.bak_0.log" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.bak_0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/com.genuitec.eclipse.devstyle/recent.json" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/com.genuitec.eclipse.devstyle/recent.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/com.genuitec.eclipse.monitor/myeclipse-usage.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/com.genuitec.eclipse.monitor/myeclipse-usage.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/com.genuitec.eclipse.ui.common.platform/color-definitions-fix.css" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/com.genuitec.eclipse.ui.common.platform/color-definitions-fix.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/ElseProblems/org.eclipse.jdt.core/state.dat" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/ElseProblems/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Exception Handling/org.eclipse.jdt.core/state.dat" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Exception Handling/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Practice/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Practice/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Practice/org.eclipse.jdt.core/state.dat" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Practice/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Recurssion/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Recurssion/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1865797976.index" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1865797976.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.workbench.texteditor/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.workbench.texteditor/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/version.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassConstructer/ClassConstructer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ClassConstructer/ClassConstructer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditional Statemen/Conditional Statemen.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Conditional Statemen/Conditional Statemen.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Control_Construct/src/com/kn/dowhile/SumOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/Control_Construct/src/com/kn/dowhile/SumOfDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Control_Construct/src/com/kn/forloop/Nprimen.java" beforeDir="false" afterPath="$PROJECT_DIR$/Control_Construct/src/com/kn/forloop/Nprimen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Control_Construct/src/com/kn/forloop/PerfectNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Control_Construct/src/com/kn/forloop/PerfectNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Control_Construct/src/com/kn/pattern/Pattern27.java" beforeDir="false" afterPath="$PROJECT_DIR$/Control_Construct/src/com/kn/pattern/Pattern27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Control_Construct/src/com/kn/switchcase/BookLibrary.java" beforeDir="false" afterPath="$PROJECT_DIR$/Control_Construct/src/com/kn/switchcase/BookLibrary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_maven_Project/target/classes/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_maven_Project/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_maven_Project/target/classes/META-INF/maven/com.kn.kodnest/Demo_maven_Project/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_maven_Project/target/classes/META-INF/maven/com.kn.kodnest/Demo_maven_Project/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElseProblems/ElseProblems.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ElseProblems/ElseProblems.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanceCalculato/FinanceCalculato.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FinanceCalculato/FinanceCalculato.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HalveTheNumber/HalveTheNumber.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HalveTheNumber/HalveTheNumber.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HeightConverte/HeightConverte.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HeightConverte/HeightConverte.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork/HomeWork.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/HomeWork.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumping Statement/Jumping Statement.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Jumping Statement/Jumping Statement.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoopingStatement/LoopingStatement.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LoopingStatement/LoopingStatement.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlanetExplorer/PlanetExplorer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PlanetExplorer/PlanetExplorer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringPrograms/src/com/kn/caseconversion/CaseConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/StringPrograms/src/com/kn/caseconversion/CaseConversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/convertToHour/convertToHour.iml" beforeDir="false" afterPath="$PROJECT_DIR$/convertToHour/convertToHour.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="1773" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "PraveenMR12"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/PraveenMR12/JAVA.git",
+    "accountId": "10d5b32a-e7a0-48f6-abfc-e2a8aa6630f2"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.5788341201119118" />
+      <entry key="MS500" value="2.9895382997237476" />
+      <entry key="S2" value="3.7533930683158956" />
+      <entry key="S5" value="5.094569469822782" />
+      <entry key="S10" value="8.014268004945489" />
+      <entry key="S30" value="14.806725286307916" />
+      <entry key="S60" value="18.237983281856717" />
+      <entry key="M2" value="20.420956518885653" />
+      <entry key="M5" value="21.91605357687908" />
+      <entry key="M10" value="22.44886931659936" />
+      <entry key="M15" value="22.63051087828926" />
+      <entry key="M30" value="22.81421255044377" />
+      <entry key="H1" value="22.90684393577713" />
+      <entry key="H2" value="22.953356179715225" />
+      <entry key="H4" value="22.97666161732781" />
+      <entry key="D1" value="22.9961079795367" />
+      <entry key="W1" value="22.999443940966334" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.52898567486345" />
+      <entry key="MS500" value="2.9673223424796014" />
+      <entry key="S2" value="3.7459651302789707" />
+      <entry key="S5" value="5.089724963877186" />
+      <entry key="S10" value="8.009861204626644" />
+      <entry key="S30" value="14.803820028794481" />
+      <entry key="S60" value="18.2361787311594" />
+      <entry key="M2" value="20.419943256588926" />
+      <entry key="M5" value="21.915617995247693" />
+      <entry key="M10" value="22.448646141696976" />
+      <entry key="M15" value="22.630360872171057" />
+      <entry key="M30" value="22.814136929227143" />
+      <entry key="H1" value="22.90680596935411" />
+      <entry key="H2" value="22.953337157389484" />
+      <entry key="H4" value="22.976652096366234" />
+      <entry key="D1" value="22.99610639134712" />
+      <entry key="W1" value="22.999443714048716" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3HtFtzRO7ce4noByGWmBsTedvbu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArrayTraversingDemo.executor": "Run",
+    "Application.Pattern27.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "Home",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.9437.185" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14f7c205-ef1e-454d-85c5-88e2fd76635b" name="Changes" comment="" />
+      <created>1786679679325</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1786679679325</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
