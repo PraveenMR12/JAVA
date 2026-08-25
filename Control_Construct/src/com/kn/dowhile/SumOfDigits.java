@@ -22,7 +22,7 @@ public class SumOfDigits {
 				num=num/10;
 			}while(num>0);
 			num=sum;
-			
+			System.out.println(sum);
 		}while(sum>9);
 		System.out.println(sum);
 	}

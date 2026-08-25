@@ -1,4 +1,4 @@
-package com.kn.switchcase;
+ package com.kn.switchcase;
 
 import java.util.Scanner;
 

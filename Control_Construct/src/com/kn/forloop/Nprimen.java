@@ -20,7 +20,7 @@ public class Nprimen {
 		while(i<a) {
 			
 				boolean isPrime=true;
-				for(int j=2;j<x;j++)
+				for(int j=2;j<=x/2;j++)
 				{
 					if(x%j==0) {
 						isPrime=false;

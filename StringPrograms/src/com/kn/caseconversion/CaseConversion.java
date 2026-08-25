@@ -9,13 +9,14 @@ public class CaseConversion {
 		for(char character : crr ) {
 			if((int)character>=65&&(int)character<=90) {
 				unicode=(int)character + 32;
+				System.out.println(unicode);
 				
 			}
 			else if((int)character>=97&&(int)character<=122) {
 				unicode = (int)character - 32;
 			}else {
 				unicode = (int)character;
-			}
+			}   
 			outputString.append((char)unicode);
 		}
 		

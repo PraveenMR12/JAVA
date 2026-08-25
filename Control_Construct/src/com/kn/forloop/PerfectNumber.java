@@ -8,7 +8,7 @@ public class PerfectNumber {
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter the number");
 		int n = sc.nextInt();
-		isPerfect(n);
+		nPerfect(n);
 		sc.close();
 	}
 
@@ -25,6 +25,27 @@ public class PerfectNumber {
 		}else {
 			System.out.println("It is not a perfect number");
 
+		}
+	}
+	
+	static void nPerfect(int a) {
+		int j=0, n=2;
+		while(j<a) {
+			
+			int i=1,sum=0;
+			
+			while(i<=n/2) {
+				if(n%i==0) {
+					sum+=i;
+				}
+				i++;
+			}
+			if(sum==n) {
+				System.out.println(n);
+				j++;
+			}
+			n++;
+		
 		}
 	}
 

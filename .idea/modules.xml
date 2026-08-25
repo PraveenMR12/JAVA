@@ -2,14 +2,41 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abstraction/Abstraction.iml" filepath="$PROJECT_DIR$/Abstraction/Abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayPrograms/ArrayPrograms.iml" filepath="$PROJECT_DIR$/ArrayPrograms/ArrayPrograms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayTasks/ArrayTasks.iml" filepath="$PROJECT_DIR$/ArrayTasks/ArrayTasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/ClassConstructer/ClassConstructer.iml" filepath="$PROJECT_DIR$/ClassConstructer/ClassConstructer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class_Array/Class_Array.iml" filepath="$PROJECT_DIR$/Class_Array/Class_Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collection/Collection.iml" filepath="$PROJECT_DIR$/Collection/Collection.iml" />
       <module fileurl="file://$PROJECT_DIR$/Conditional Statemen/Conditional Statemen.iml" filepath="$PROJECT_DIR$/Conditional Statemen/Conditional Statemen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Control_Construct/Control_Construct.iml" filepath="$PROJECT_DIR$/Control_Construct/Control_Construct.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo_maven_Project/Demo_maven_Project.iml" filepath="$PROJECT_DIR$/Demo_maven_Project/Demo_maven_Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ElseProblems/ElseProblems.iml" filepath="$PROJECT_DIR$/ElseProblems/ElseProblems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception Handling/Exception Handling.iml" filepath="$PROJECT_DIR$/Exception Handling/Exception Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Extras/Extras.iml" filepath="$PROJECT_DIR$/Extras/Extras.iml" />
       <module fileurl="file://$PROJECT_DIR$/FinanceCalculato/FinanceCalculato.iml" filepath="$PROJECT_DIR$/FinanceCalculato/FinanceCalculato.iml" />
       <module fileurl="file://$PROJECT_DIR$/HalveTheNumber/HalveTheNumber.iml" filepath="$PROJECT_DIR$/HalveTheNumber/HalveTheNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/HeightConverte/HeightConverte.iml" filepath="$PROJECT_DIR$/HeightConverte/HeightConverte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWork/HomeWork.iml" filepath="$PROJECT_DIR$/HomeWork/HomeWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ImpProblemd/ImpProblemd.iml" filepath="$PROJECT_DIR$/ImpProblemd/ImpProblemd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jdbc_Demo/Jdbc_Demo.iml" filepath="$PROJECT_DIR$/Jdbc_Demo/Jdbc_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jumping Statement/Jumping Statement.iml" filepath="$PROJECT_DIR$/Jumping Statement/Jumping Statement.iml" />
       <module fileurl="file://$PROJECT_DIR$/Kodnest.iml" filepath="$PROJECT_DIR$/Kodnest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoopingStatement/LoopingStatement.iml" filepath="$PROJECT_DIR$/LoopingStatement/LoopingStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiThreading/MultiThreading.iml" filepath="$PROJECT_DIR$/MultiThreading/MultiThreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObjectOrientedProgramming/ObjectOrientedProgramming.iml" filepath="$PROJECT_DIR$/ObjectOrientedProgramming/ObjectOrientedProgramming.iml" />
       <module fileurl="file://$PROJECT_DIR$/PlanetExplorer/PlanetExplorer.iml" filepath="$PROJECT_DIR$/PlanetExplorer/PlanetExplorer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice1/Practice1.iml" filepath="$PROJECT_DIR$/Practice1/Practice1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticeProblemIJ/PracticeProblemIJ.iml" filepath="$PROJECT_DIR$/PracticeProblemIJ/PracticeProblemIJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recurssion/Recurssion.iml" filepath="$PROJECT_DIR$/Recurssion/Recurssion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringBuffer/StringBuffer.iml" filepath="$PROJECT_DIR$/StringBuffer/StringBuffer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringPrograms/StringPrograms.iml" filepath="$PROJECT_DIR$/StringPrograms/StringPrograms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sunpai Exam/Sunpai Exam.iml" filepath="$PROJECT_DIR$/Sunpai Exam/Sunpai Exam.iml" />
       <module fileurl="file://$PROJECT_DIR$/convertToHour/convertToHour.iml" filepath="$PROJECT_DIR$/convertToHour/convertToHour.iml" />
+      <module fileurl="file://$PROJECT_DIR$/main/main.iml" filepath="$PROJECT_DIR$/main/main.iml" />
     </modules>
   </component>
 </project>
